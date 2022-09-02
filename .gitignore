@@ -37,3 +37,11 @@ pnpm-debug.log*
 /ProjetoEscola.Infra/obj
 /ProjetoEscola.Migrations/bin/Debug/netcoreapp2.2
 /ProjetoEscola.Migrations/obj
+/ProjetoVendaVueNETCore.Api/bin/Debug/netcoreapp3.1
+/ProjetoVendaVueNETCore.Api/obj
+/ProjetoVendaVueNETCore.Application/obj
+/ProjetoVendaVueNETCore.Contracts/obj
+/ProjetoVendaVueNETCore.Domain/obj
+/ProjetoVendaVueNETCore.Infrastructure/bin/Debug/netcoreapp3.1
+/ProjetoVendaVueNETCore.Infrastructure/obj
+/ProjetoVendaVueNETCore.Migration/obj
