@@ -1,0 +1,39 @@
+.DS_Store
+node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+/ProjetoEscola.Domain/bin
+/ProjetoEscola.Domain/obj
+/ProjetoEscola.Api/bin
+/ProjetoEscola.Api/obj
+/ProjetoEscola.Api/.vs
+/.vs
+/ProjetoEscola.Application/obj
+/ProjetoEscola.Application/bin/Debug/netcoreapp2.2
+/ProjetoEscola.Common/bin/Debug/netcoreapp2.2
+/ProjetoEscola.Common/obj
+/ProjetoEscola.Contracts/bin/Debug/netcoreapp2.2
+/ProjetoEscola.Contracts/obj
+/ProjetoEscola.Infra/bin/Debug/netcoreapp2.2
+/ProjetoEscola.Infra/obj
+/ProjetoEscola.Migrations/bin/Debug/netcoreapp2.2
+/ProjetoEscola.Migrations/obj
